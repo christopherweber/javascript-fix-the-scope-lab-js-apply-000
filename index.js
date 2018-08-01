@@ -11,7 +11,7 @@ function yourAnimal(animal) {
   return animal
 }
 
-let animal 
+
 
 function add2(n) {
   return n + two
